@@ -1,2 +1,2 @@
 # where-to-move-data
- Data initialization scripts for initializing PostgresSQL DB
+ Data initialization scripts for initializing PostgreSQL DB
